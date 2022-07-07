@@ -28,5 +28,5 @@ Hello in This we will be lauching the 2 conatiner one running with nodejs sample
    <H3>
    1. Here Dockerfile is nginx container file <br>
    2. Dockerfile1 is a nodejs container file <br>
-   3. default.conf file is the file for nginx software containing proxy location.
+   3. default.conf file is the file for nginx software containing proxy location.<br>
    4. dockercompose file is used for the combining and using the previous Dockerfile it is like a configuration file which contains code .
