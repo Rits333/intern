@@ -1,0 +1,5 @@
+FROM nginx
+WORKDIR /node/app
+COPY package.json /node/app
+COPY build /node/app
+EXPOSE 3000
