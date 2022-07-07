@@ -22,6 +22,11 @@ Hello in This we will be lauching the 2 conatiner one running with nodejs sample
      Step 2:-
      <pre>
       docker compose up -d
-     <pre>
+     </pre>
      
+     
+   <H3>
+   1. Here Dockerfile is nginx container file <br>
+   2. Dockerfile1 is a nodejs container file <br>
+   3. default.conf file is the file for nginx software containing proxy location.
       
